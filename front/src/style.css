@@ -1,0 +1,63 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --br: 16px;
+  --black: #000;
+  --light-black: #0000000d;
+  --very-light-black: #434449;
+  --dark-black: #222222;
+  --white: #fff;
+  --very-light-blue: #51aee7;
+  --light-blue: #50a7ea;
+  --blue: #3ba9ec;
+  --link-blue: #007aff;
+  --dark-blue: #3290ec;
+  --background: #efeff4;
+  --text-dark-grey: #707579;
+  --grey: #838383;
+  --text-dark-grey: #8d8e90;
+  --text-grey: #83868b;
+  --text-light-grey: #9a9a9a;
+  --light-grey-text: #a1aab3;
+  --background-grey: #72839199;
+  --radio-grey: #b6b6b7;
+  --very-dark-grey: #868686;
+  --light-green: #effedd;
+  --dark-green: #62ac55;
+  --green: #60c255;
+  --red: #c9564f;
+
+  --border-radius-big: 20px;
+  --border-radius-little: 7px;
+  --border-radius: 14px;
+  --border-radius-medium: 16px;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  max-width: 560px;
+  min-height: 100vh;
+  background-color: #efeff4;
+}
+
+#app {
+  height: 100vh;
+  margin: 0 auto;
+  position: relative;
+  max-width: 560px;
+  width: 100%;
+}
+
+.bottom_p {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+}

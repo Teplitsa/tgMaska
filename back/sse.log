@@ -1,0 +1,23 @@
+nohup: ignoring input
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+PHP Warning:  iconv(): Wrong encoding, conversion from "AUTO" to "UTF-8//IGNORE" is not allowed in /var/www/back/vendor/symfony/polyfill-mbstring/Mbstring.php on line 130
+[2024-11-29 11:07:18 *313186.0]	WARNING	Worker_reactor_try_to_exit() (ERRNO 9101): worker exit timeout, forced termination
